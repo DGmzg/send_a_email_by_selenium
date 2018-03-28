@@ -1,0 +1,2 @@
+# send_a_email_by_selenium
+用selenium自动发送qq邮件
